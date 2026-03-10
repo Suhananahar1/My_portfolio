@@ -89,7 +89,7 @@ nav ul li a:hover::after{
   max-width:400px;
   border-radius:50%;
   object-fit:cover;
-  border:4px solid #ff4b5c;
+  border:4px solid lab(65.45% 35.02 -39.47);
 }
 
 .social-icons{
